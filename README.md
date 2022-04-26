@@ -2,9 +2,7 @@
 
 Hello, my name is Jose Jimenez.
 
-My interest is in embedded systems design. Majoring in Electrical Engineering, I have gained the knowledge in 
-the hardware side of that field and also the software. My goal is to create embedded systems that 
-contribute to solve our current problems we have today.
+My interest is in solving life's hardware problems. Majoring in Electrical Engineering and Biomedical Engineering (Mechanical concentration), I have the knowledge to built physical products that can interact with the world and change it. My goal is to create hardware systems that contribute to solve our current problems we have today.
 
 Some of the issues I am interested in improving are personal health, climate change, and improving transportation.
 
