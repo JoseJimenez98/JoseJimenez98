@@ -2,9 +2,7 @@
 
 Hello, my name is Jose Jimenez.
 
-My interest is in solving life's hardware problems. Majoring in Electrical Engineering and Biomedical Engineering (Mechanical concentration), I have the knowledge to built physical products that can interact with the world and change it. My goal is to create hardware systems that contribute to solve our current problems we have today.
-
-Some of the issues I am interested in improving are personal health, climate change, and improving transportation.
+Some of the issues I am interested in improving are neurological health, climate change, and improving manufacturing.
 
 # Table of Projects
 
